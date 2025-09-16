@@ -1,0 +1,26 @@
+Exemplo
+Desenvolva um programa que desenhe um triângulo utilizando os caracteres * e =. O programa deverá
+solicitar que o usuário digite um número n que deverá ser utilizado para definir a altura e a largura do
+triângulo. Os caracteres deverão ser alternados de maneira que todas as linhas do desenho sejam
+iniciadas pelo caractere *. O programa deve ter um procedimento que recebe o valor de n e imprime a
+pirâmide.
+Entradas: Número inteiro que indica a altura e a largura do triângulo.
+Saídas: Um conjunto de caracteres * e = no formato de um triângulo.
+Exemplo de entrada: 5
+Exemplo de saída:
+*
+*=
+*=*
+*=*=
+*=*=*
+● Resolva o problema na folha de papel.
+● Escreva sua solução completa, com comandos e lógica do algoritmo.
+● Em seguida, desenhe e preencha manualmente a tabela de teste de mesa com os valores de
+variáveis, condições e resultado da execução
+
+//Considere
+<- comando de atribuição em pseudocódigo
+enquanto - comando de repetição controlado por condição de parada (while)
+se então senão - comando de seleção
+
+
