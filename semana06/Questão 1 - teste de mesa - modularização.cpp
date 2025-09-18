@@ -8,7 +8,7 @@ int sec(int real,int fiftyCent,int twentyCent) {
     
 }
 
- 
+
 
 
 
