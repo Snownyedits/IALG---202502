@@ -3,7 +3,8 @@
     "iomanip": "cpp",
     "ostream": "cpp",
     "cmath": "cpp",
-    "iosfwd": "cpp"
+    "iosfwd": "cpp",
+    "iostream": "cpp"
   },
   "C_Cpp_Runner.msvcBatchPath": "",
   "C_Cpp_Runner.cCompilerPath": "gcc",
